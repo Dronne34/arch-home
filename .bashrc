@@ -53,7 +53,7 @@ alias pacman='sudo pacman --color auto'
 alias update='sudo pacman -Syyu'
 
 # yay as aur helper - updates everything
-alias pksyua="yay -Syu --noconfirm"
+alias pksyua="trizen -Syu --noconfirm"
 
 #ps
 alias ps="ps auxf"
